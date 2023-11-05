@@ -1,2 +1,2 @@
-# web-local.getstake.com
-PwD by Nullrex
+# bitcoinholiday.alwaysaugust.co
+PwD by D Beast
