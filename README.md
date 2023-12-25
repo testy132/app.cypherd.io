@@ -1,2 +1,2 @@
-# bitcoinholiday.alwaysaugust.co
-PwD by D Beast
+# testnets.alexandrialabs.xyz
+PwD by Sahil
