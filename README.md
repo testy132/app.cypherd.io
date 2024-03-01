@@ -1,2 +1,2 @@
-# testnets.alexandrialabs.xyz
+# app.cypherd.io
 PwD by Sahil
